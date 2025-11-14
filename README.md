@@ -6,7 +6,7 @@ Web Full Stuck Developer and desinger
 
 \# Full-Stack Developer 💻
 
-Développeur passionné avec \[X\] années d'expérience dans le développement d'applications web complètes.
+Développeur passionné avec \[2\] années d'expérience dans le développement d'applications web complètes.
 
 Spécialisé dans la conception et la mise en œuvre de solutions digitales performantes.
 
